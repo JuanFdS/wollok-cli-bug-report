@@ -1,0 +1,12 @@
+import objects.*
+
+describe "suite de tests" {
+
+	const constanteDeLaSuite = new A(atributo=atributo)
+
+	test "este test no pasa" {
+
+		assert.that(false)
+	}
+
+}
